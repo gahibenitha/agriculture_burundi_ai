@@ -1,0 +1,23 @@
+annee,saison,province,culture,altitude_m,pluviometrie_mm,temperature_moy_C,superficie_ha,utilisation_engrais,acces_irrigation,nb_menages,rendement_t_ha,production_totale_t,bonne_recolte
+2015,A,Kayanza,Maïs,1980,920,17.8,120,1,0,540,3.2,384,1
+2015,B,Bubanza,Manioc,790,550,25.4,150,0,1,610,1.8,270,0
+2015,A,Gitega,Haricot,1720,430,18.2,95,0,0,450,1.2,114,0
+2015,B,Cibitoke,Patate douce,810,810,24.1,110,1,1,500,2.9,319,1
+2016,A,Ngozi,Sorgho,1850,700,19.3,130,1,0,570,2.4,312,1
+2016,B,Muyinga,Bananier,1500,980,20.5,140,1,1,620,4.1,574,1
+2016,A,Rutana,Maïs,1650,610,21.0,100,0,0,430,1.9,190,0
+2016,B,Makamba,Haricot,900,760,24.0,115,1,1,490,2.7,310.5,1
+2017,A,Bururi,Patate douce,1800,850,18.5,125,1,0,510,3.0,375,1
+2017,B,Ruyigi,Manioc,1450,640,22.1,135,0,1,560,2.1,283.5,0
+2018,A,Cankuzo,Sorgho,1600,580,21.7,105,0,0,420,1.7,178.5,0
+2018,B,Karuzi,Maïs,1700,910,19.1,145,1,1,600,3.5,507.5,1
+2019,A,Muramvya,Haricot,2000,780,17.2,90,1,0,390,2.6,234,1
+2019,B,Kirundo,Bananier,1350,520,23.8,160,0,1,700,2.0,320,0
+2020,A,Rumonge,Patate douce,950,890,24.5,155,1,1,670,3.4,527,1
+2020,B,Bujumbura Rural,Maïs,1200,610,22.7,118,0,0,480,1.8,212.4,0
+2021,A,Kayanza,Haricot,1980,940,17.6,122,1,1,550,3.1,378.2,1
+2021,B,Gitega,Sorgho,1720,460,18.4,98,0,0,440,1.3,127.4,0
+2022,A,Cibitoke,Manioc,810,870,24.2,132,1,1,610,3.0,396,1
+2022,B,Ngozi,Bananier,1850,950,19.0,150,1,0,640,4.3,645,1
+2023,A,Muyinga,Maïs,1500,620,21.5,125,0,1,520,2.0,250,0
+2023,B,Rutana,Patate douce,1650,800,20.8,140,1,1,590,3.2,448,1
